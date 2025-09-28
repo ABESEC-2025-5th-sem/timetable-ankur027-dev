@@ -1,2 +1,2 @@
-#This is my college repo
+#This is my college repo.
 Author-Ankur Tiwari
